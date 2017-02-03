@@ -1,4 +1,6 @@
 # Typed packagename
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/felixfbecker/types-template.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/types/npm-packagename.svg?branch=master)](https://travis-ci.org/types/npm-packagename)
 
 Typescript Typings for [packagename](https://www.npmjs.com/package/packagename).
